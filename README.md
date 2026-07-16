@@ -20,6 +20,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=Ajit9834&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Ajit9834&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ajit9834&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📈 Activity Graph
+[![Ajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajit9834&theme=tokyo-night)](https://github.com/Ajit9834)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
