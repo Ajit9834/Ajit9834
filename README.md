@@ -1,3 +1,12 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ajit%20Zori&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Full-Stack%20Developer%20%7C%20MERN%20%7C%20Open%20Source&descAlignY=60&descSize=18" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI-Powered+Full-Stack+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+real-world+products+with+impact;Open+to+Internships+and+Collaborations" />
+</p>
 # 💫 About Me:
 🔭 Building **AI-powered Full-Stack Applications**<br><br>💼 Looking for **Full-Stack Developer Internship Opportunities**<br><br>🤝 Open to collaborating on **MERN Stack, AI, and Open Source Projects**<br><br>🌱 Exploring **Next.js, TypeScript, Docker, AWS, and LLM Applications**<br><br>💬 Ask me about **React, Node.js, MongoDB, Express.js, JavaScript, Tailwind CSS, REST APIs, and Git**<br><br>🏆 Hackathon enthusiast who enjoys building products that solve real-world problems.<br><br>⚡ Goal: **Become an AI Full-Stack Engineer and build impactful products.**
 
